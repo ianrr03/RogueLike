@@ -2234,7 +2234,7 @@ MonoBehaviour:
   - {fileID: 2089039094591782933, guid: 9e6ec225e80cbae40bafb59489a1ed32, type: 3}
   - {fileID: 3167635219459303381, guid: e7d680aa39f9632478bddf3248fd2da9, type: 3}
   - {fileID: 8504914452024292754, guid: 864ed9dbd32962742a2a893b929f5877, type: 3}
-  closedRoom: {fileID: 0}
+  closedRoom: {fileID: 8427736888182218044, guid: 34a59067fc8499a4cab0485aa3172f8d, type: 3}
 --- !u!1 &1290851126
 GameObject:
   m_ObjectHideFlags: 0
@@ -2596,7 +2596,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9c502a6df39db3046ba3e58ded36c303, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  openside: 1
+  openside: 2
 --- !u!54 &1480716260
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -3730,7 +3730,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9c502a6df39db3046ba3e58ded36c303, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  openside: 2
+  openside: 1
 --- !u!54 &2020879316
 Rigidbody:
   m_ObjectHideFlags: 0
